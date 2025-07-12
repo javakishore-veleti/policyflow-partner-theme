@@ -1,0 +1,8 @@
+{
+  "name": "policyflow/partner-theme",
+  "description": "Drupal theme for PolicyFlow parnter portal",
+  "type": "drupal-theme",
+  "license": "Apache-2.0",
+  "minimum-stability": "stable",
+  "prefer-stable": true
+}
