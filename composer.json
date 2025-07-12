@@ -3,6 +3,6 @@
   "description": "Drupal theme for PolicyFlow partner portal",
   "type": "drupal-theme",
   "license": "Apache-2.0",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "prefer-stable": true
 }
