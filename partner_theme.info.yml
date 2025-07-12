@@ -1,0 +1,14 @@
+name: 'PolicyFlow Partner Theme'
+type: theme
+description: 'A custom Drupal theme for PolicyFlow partner portal.'
+core_version_requirement: ^10
+package: Custom
+base theme: classy
+libraries:
+  - partner_theme/global-styling
+regions:
+  header: 'Header'
+  primary_menu: 'Primary Menu'
+  content: 'Content'
+  sidebar_first: 'Sidebar First'
+  footer: 'Footer'
